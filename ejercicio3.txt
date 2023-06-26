@@ -1,0 +1,5 @@
+
+El alumno Gabriel Rosendorn de DNI: 45141980; Se sacó las siguientes notas en los TP [7, 8, 9, 4, 6, 3], en promedio su nota es 6.17 por lo que está APROBADO
+El alumno Ramiro Corra de DNI: 457812389; Se sacó las siguientes notas en los TP [7, 6, 3, 4, 8, 9], en promedio su nota es 6.17 por lo que está APROBADO
+El alumno Julian de DNI: 45789741; Se sacó las siguientes notas en los TP [7, 8, 9, 9, 9, 3], en promedio su nota es 7.5 por lo que está APROBADO
+El alumno Pepe de DNI: 4548651; Se sacó las siguientes notas en los TP [7, 4, 4, 5, 8, 9], en promedio su nota es 6.17 por lo que está APROBADO
